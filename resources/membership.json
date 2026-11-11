@@ -836,5 +836,12 @@
 		"name": "Brandon's Blog",
 		"description": "分享个人生活与技术日常",
 		"github_username": "Brandon-LIs"
+	},
+	"131": {
+		"domain": "liuz.cn",
+		"icon": "https://liuz.cn/usr/uploads/logo.jpeg",
+		"name": "刘郎阁",
+		"description": "一个积极向上的生活探索者！",
+		"github_username": "vjoccc"
 	}
 }
